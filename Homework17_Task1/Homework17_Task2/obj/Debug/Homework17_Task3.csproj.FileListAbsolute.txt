@@ -1,0 +1,6 @@
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\bin\Debug\Homework17_Task2.exe.config
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\bin\Debug\Homework17_Task2.exe
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\bin\Debug\Homework17_Task2.pdb
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\obj\Debug\Homework17_Task3.csprojAssemblyReference.cache
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\obj\Debug\Homework17_Task2.exe
+C:\Users\zakha\source\repos\Homework17_Task1\Homework17_Task2\obj\Debug\Homework17_Task2.pdb
